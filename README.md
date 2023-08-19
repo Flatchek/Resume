@@ -11,3 +11,7 @@
 # Second classes
 
 18.08 2023 => Creating layout of resume.
+
+# 3-nd classes
+
+19.08 2023 => Add first styles on page.
