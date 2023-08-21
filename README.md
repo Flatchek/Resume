@@ -19,3 +19,7 @@
 # 4-nd classes
 
 20.08 2023 => Added styles for aside block
+
+# 5-nd classes
+
+21.08 2023 => Added styles for whole page
