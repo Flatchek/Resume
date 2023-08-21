@@ -15,3 +15,7 @@
 # 3-nd classes
 
 19.08 2023 => Add first styles on page.
+
+# 4-nd classes
+
+20.08 2023 => Added styles for aside block
